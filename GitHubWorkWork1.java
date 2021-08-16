@@ -6,7 +6,7 @@ public class GitHubWorkWork1 {
 
 	
 	
-		int n = 100;
+		int n = 90;
 		System.out.print("Odd Numbers from 1 to "+n+" are: ");
 		for (int i = 1; i <= n; i++) {
 		   if (i % 2 != 0) {
